@@ -13,6 +13,8 @@
 		DD28A6B924CC18B900A2C469 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD28A6B724CC18B900A2C469 /* Main.storyboard */; };
 		DD28A6BB24CC18C000A2C469 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD28A6BA24CC18C000A2C469 /* Assets.xcassets */; };
 		DD28A6BE24CC18C000A2C469 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD28A6BC24CC18C000A2C469 /* LaunchScreen.storyboard */; };
+		DD28A6C624CC1CE400A2C469 /* DrawingPoohViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28A6C524CC1CE400A2C469 /* DrawingPoohViewController.swift */; };
+		DD28A6C824CC364900A2C469 /* DancingPoohViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD28A6C724CC364900A2C469 /* DancingPoohViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		DD28A6BA24CC18C000A2C469 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD28A6BD24CC18C000A2C469 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD28A6BF24CC18C000A2C469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD28A6C524CC1CE400A2C469 /* DrawingPoohViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingPoohViewController.swift; sourceTree = "<group>"; };
+		DD28A6C724CC364900A2C469 /* DancingPoohViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DancingPoohViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				DD28A6B324CC18B900A2C469 /* SceneDelegate.swift */,
 				DD28A6B524CC18B900A2C469 /* ViewController.swift */,
 				DD28A6B724CC18B900A2C469 /* Main.storyboard */,
+				DD28A6C724CC364900A2C469 /* DancingPoohViewController.swift */,
+				DD28A6C524CC1CE400A2C469 /* DrawingPoohViewController.swift */,
 				DD28A6BA24CC18C000A2C469 /* Assets.xcassets */,
 				DD28A6BC24CC18C000A2C469 /* LaunchScreen.storyboard */,
 				DD28A6BF24CC18C000A2C469 /* Info.plist */,
@@ -141,6 +147,8 @@
 				DD28A6B624CC18B900A2C469 /* ViewController.swift in Sources */,
 				DD28A6B224CC18B900A2C469 /* AppDelegate.swift in Sources */,
 				DD28A6B424CC18B900A2C469 /* SceneDelegate.swift in Sources */,
+				DD28A6C824CC364900A2C469 /* DancingPoohViewController.swift in Sources */,
+				DD28A6C624CC1CE400A2C469 /* DrawingPoohViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
